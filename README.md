@@ -5,7 +5,7 @@ The input is given as coefficient matrix, A and then the solution for x is given
 
 Instructions:
 
-Run linear_system.py and then enter the asked input variables.  The program would return then the solution.
+Run linear_system.py and then enter the asked input variables.  The program would then return the solution.
 
 
 Learn more about it in the link given below:
