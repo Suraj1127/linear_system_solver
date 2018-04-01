@@ -102,7 +102,7 @@ def main():
     linear_system = LinearSystem(no_of_equations, no_of_variables, A)
     linear_system.row_echelonize()
     linear_system.reduced_row_echelonize()
-    print("So, the column-space matrix of the solution is:\n{}".format(linear_system.get_solution()))
+    print("\nSo, the column-space matrix of the solution is:\n{}".format(linear_system.get_solution()))
 
 if __name__ == "__main__":
     main()
